@@ -5,7 +5,7 @@ Design a mobile app for empowering women.
 
 This is group project on designning a mobile app as a solution on empowering women. 
 
-prototype link : https://www.figma.com/proto/NKmy4h2GF1p09ExQpws2F8/Untitled?node-id=1-114&p=f&t=KpGAcY364ZSYk8iM-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3196
+prototype link : https://www.figma.com/proto/NKmy4h2GF1p09ExQpws2F8/Untitled?node-id=1-3196&p=f&t=KpGAcY364ZSYk8iM-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3196
 
 Home page :
 
