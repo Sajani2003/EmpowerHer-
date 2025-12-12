@@ -1,2 +1,5 @@
-# EmpowerHer-
-Design a mobile app empowering women 
+# EmpowerHer Mobile app UI/UX Design
+
+Design a mobile app for empowering women. 
+
+
